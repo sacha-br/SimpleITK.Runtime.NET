@@ -4,10 +4,11 @@
     <TargetFramework>net8.0</TargetFramework>
     <Configuration>Release</Configuration>
     <PackageId>SachaBr.SimpleITK.Runtime</PackageId>
-    <Version>2.3.1.2</Version>
+    <Version>2.3.1.3</Version>
     <Authors>SachaBr, SimpleITK Team</Authors>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <Description>Unofficial cross-platform NuGet package for SimpleITK (Windows x64 and Linux x64) compiled for .NET 8. This is a repack of the original binaries. The original binary files have not been modified, only the layout structure was rearranged into standard NuGet RIDs to support automatic deployment. Distributed "AS IS", without warranties of any kind.</Description>
+    <PackageTags>simpleitk;itk;medical-imaging;mri;ct;dicom;image-processing;cross-platform</PackageTags>
     <PackageProjectUrl>https://github.com/sacha-br/SimpleITK.Runtime.NET</PackageProjectUrl>
     <RepositoryUrl>https://github.com/sacha-br/SimpleITK.Runtime.NET</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
