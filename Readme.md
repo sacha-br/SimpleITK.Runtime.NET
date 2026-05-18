@@ -25,7 +25,7 @@ To maintain a clear separation between the packaging configuration and the origi
 Install the package via .NET CLI:
 
 ```bash
-dotnet add package SachaBr.SimpleITK.Runtime --version 2.3.1.3
+dotnet add package SachaBr.SimpleITK.Runtime --version 2.5.5
 ```
 
 ## Quick Start
