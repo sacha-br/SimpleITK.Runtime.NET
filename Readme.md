@@ -63,5 +63,5 @@ The SimpleITK software is distributed under the **Apache License 2.0**.
 The copyright is held by **NumFOCUS** and the **Insight Software Consortium**.
 
 * This package is distributed **"AS IS", without warranties of any kind**, either express or implied.
-* Original `LICENSE` and `NOTICE` documents are strictly preserved and bundled into the root of the resulting NuGet package.
+* Original `LICENSE` and `NOTICE` documents are strictly preserved and bundled inside the **`3dparty/SimpleITK/`** directory of the resulting NuGet package.
 * This is a community repackaging effort and is **not** an official release or endorsed by the SimpleITK Team.
