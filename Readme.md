@@ -9,7 +9,7 @@ This repository contains an **unofficial** NuGet packaging of the [SimpleITK](ht
 
 To maintain a clear separation between the packaging configuration and the original upstream files, the repository is organized using a vendoring approach:
 
-* **`/SachaBr.SimpleITK.Runtime.csproj`** — The master .NET project file used to build the NuGet package.
+* **`/SachaBr.SimpleITK.Runtime.csproj`** — The main .NET project file used to build the NuGet package.
 * **`/3dparty/SimpleITK/`** — Isolated directory containing unmodified original assets from the SimpleITK project (`LICENSE`, `NOTICE`, `Readme.md`, `.dll`, and `.so` files).
 
 ## Package Identity & Status
@@ -25,7 +25,7 @@ To maintain a clear separation between the packaging configuration and the origi
 Install the package via .NET CLI:
 
 ```bash
-dotnet add package SachaBr.SimpleITK.Runtime --version 2.3.1.1
+dotnet add package SachaBr.SimpleITK.Runtime --version 2.3.1.2
 ```
 
 ## Quick Start
