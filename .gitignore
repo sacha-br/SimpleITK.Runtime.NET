@@ -1,0 +1,9 @@
+# Visual Studio temporary files
+bin/
+obj/
+
+# Visual Studio 2015 cache/options directory
+.vs/
+
+# NuGet Packages
+*.nupkg
